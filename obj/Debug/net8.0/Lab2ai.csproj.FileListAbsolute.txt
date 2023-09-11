@@ -1,0 +1,14 @@
+C:\Users\dream\Repos\AI\Lab2ai\bin\Debug\net8.0\Lab2ai.exe
+C:\Users\dream\Repos\AI\Lab2ai\bin\Debug\net8.0\Lab2ai.deps.json
+C:\Users\dream\Repos\AI\Lab2ai\bin\Debug\net8.0\Lab2ai.runtimeconfig.json
+C:\Users\dream\Repos\AI\Lab2ai\bin\Debug\net8.0\Lab2ai.dll
+C:\Users\dream\Repos\AI\Lab2ai\bin\Debug\net8.0\Lab2ai.pdb
+C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net8.0\Lab2ai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net8.0\Lab2ai.AssemblyInfoInputs.cache
+C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net8.0\Lab2ai.AssemblyInfo.cs
+C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net8.0\Lab2ai.csproj.CoreCompileInputs.cache
+C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net8.0\Lab2ai.dll
+C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net8.0\refint\Lab2ai.dll
+C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net8.0\Lab2ai.pdb
+C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net8.0\Lab2ai.genruntimeconfig.cache
+C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net8.0\ref\Lab2ai.dll
