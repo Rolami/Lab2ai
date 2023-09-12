@@ -40,7 +40,7 @@ class Program
 
     public async Task RunAsync()
     {
-        Console.WriteLine("Welcome to the image classifier\n\n\n");
+        Console.WriteLine("Welcome to the image classifier\n\n");
         // Authenticate and assign the client
         cvClient = new CustomVisionPredictionClient(new ApiKeyServiceClientCredentials(predictionKey)) { Endpoint = predictionEndpoint };
         Guid projectId = new Guid(predictionProjectId);
@@ -55,13 +55,14 @@ class Program
         }
 
         var result = cvClient.ClassifyImageUrl(projectId, predictionModelName, new ImageUrl(userInput));
+        Console.WriteLine("\nHere are your predictions:\n");
 
         foreach (var c in result.Predictions)
         {
             Console.WriteLine($"\t{c.TagName}: {c.Probability:P1}");
         }
+    Console.ReadKey();
     }
-
 
         static async Task Main(string[] args)
         {
