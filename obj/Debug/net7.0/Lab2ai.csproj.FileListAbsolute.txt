@@ -28,3 +28,4 @@ C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net7.0\refint\Lab2ai.dll
 C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net7.0\Lab2ai.pdb
 C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net7.0\Lab2ai.genruntimeconfig.cache
 C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net7.0\ref\Lab2ai.dll
+C:\Users\dream\Repos\AI\Lab2ai\obj\Debug\net7.0\Lab2ai.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab2ai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c89802b756cba1a55343dd12a2a4ecde627c4fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab2ai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab2ai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
