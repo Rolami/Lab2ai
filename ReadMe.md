@@ -1,8 +1,8 @@
-This is the notes of the application. The thought process. Trying to determine what to do. Should I try and train my own one?
+Labb 2 - Bildtjänster i Azure AI
 
+https://qlok.notion.site/Labb-2-Bildtj-nster-i-Azure-AI-0b5b1951db0642bf8f49f4fd503e0ade
 
-Notes: 
-
+Dataset used to train the prediction database.
 https://www.kaggle.com/datasets/anshtanwar/pets-facial-expression-dataset
-Pet dataset to train the database on? 
+
 
